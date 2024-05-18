@@ -1,0 +1,11 @@
+# Define the volume of the sterling silver product (in cm³)
+volume = 10  # Example volume
+
+# Sterling silver density (in g/cm³)
+density = 10.5
+
+# Calculate the weight of the sterling silver product
+weight = volume * density
+
+# Print the result
+print("The weight of the sterling silver product is", weight, "grams.")
